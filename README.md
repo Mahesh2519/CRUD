@@ -1,1 +1,1 @@
-# CRUD
+made this mini basic project with dynamic input in console.to perform Create , Read, Update and Delete operation using PostgeSQL database, with this code we can easily perform any one of the required operation.
